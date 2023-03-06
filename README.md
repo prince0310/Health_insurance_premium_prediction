@@ -29,7 +29,7 @@ To run this project, you can follow these steps:
 
 Clone the repository to your local machine. <br>
 
-``` git clone https://github.com/prince0310/prince0310-Health_insurance_premium_prediction/new/main?readme=1 ``` <br><br>
+``` git clone https://github.com/prince0310/Health_insurance_premium_prediction.git ``` <br><br>
 
 Install the required packages using  <br>
 
